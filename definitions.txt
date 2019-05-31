@@ -1,0 +1,6 @@
+"definition of cancer","A disease in which abnormal cells divide uncontrollably and destroy body tissue", 
+"definition of tamsulosin hydrochloride", "Flomax (tamsulosin hydrochloride) is an alpha-blocker used to treat the symptoms of a prostate gland condition called BPH",
+"what is a dipstick","a graduated rod for measuring the depth of a liquid, especially oil in a vehicle's engine.",
+"definition of benign prostatic hyperplasia?", "The Urology Care Foundation (i.e,. 'official' foundation of the American Urological Association) defines benign prostatic hyperplasia in its consumer education page as: Benign prostatic hyperplasia (BPH) is an enlarged prostate.",
+"What is the offiicial definition of BPH?", "The Urology Care Foundation (i.e,. 'official' foundation of the American Urological Association) defines benign prostatic hyperplasia in its consumer education page as: Benign prostatic hyperplasia (BPH) is an enlarged prostate.",
+"what is cancer?","A disease in which abnormal cells divide uncontrollably and destroy body tissue."
